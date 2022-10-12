@@ -111,12 +111,12 @@ That is so funny! :joy:
 
 ### Highlight
 
-I need to highlight these ==very important words==.
+I need to ___highlight___ ***these*** ==very important words==.
 
 ### Subscript
 
-H~2~O
+H_2_O H^2 O H_2^O
 
 ### Superscript
 
-X^2^
+X^2
